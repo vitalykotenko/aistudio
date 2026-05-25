@@ -1,6 +1,0 @@
-{
-  "name": "Резерв ID",
-  "description": "Мобільний симулятор та редактор посвідчення Резерв ID, адаптований для iOS Home Screen",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
